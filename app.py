@@ -9,7 +9,7 @@ app = Flask(__name__)
 # AI risk assessment model (simplified)
 class SafetyRiskModel:
     def __init__(self):
-        # Pre-defined risk factors for different countries and regions (simplified AI knowledge base)
+        # Pre-defined risk factors for different countries and regions 
         self.country_risk_factors = {
             "afghanistan": 0.9, "australia": 0.2, "brazil": 0.5, "canada": 0.2, 
             "china": 0.4, "egypt": 0.6, "france": 0.3, "germany": 0.2, 
