@@ -210,7 +210,7 @@ def index():
         <title>AI Travel Safety Bot</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
         <style>
-            body { padding: 20px; background-color: #f8f9fa; }
+            body { padding: 20px; background-color: pink; }
             .card { margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
             .alert-high { background-color: #f8d7da; }
             .alert-medium { background-color: #fff3cd; }
